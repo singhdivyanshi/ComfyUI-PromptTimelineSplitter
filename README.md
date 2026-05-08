@@ -46,6 +46,6 @@ Users can describe scene progression over time using simple timestamp-based prom
 
 ---
 
-I made this node while knowing almost nothing about Python and only beginner-level JavaScript.
+I made this node while knowing almost nothing about Python.
 
 Feel free to suggest improvements or report bugs if you run into any issues.
